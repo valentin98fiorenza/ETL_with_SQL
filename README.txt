@@ -1,2 +1,0 @@
-Este proceso de ETL es el trabajo integrador de la capacitación de Data Process con SQL dictada por la empresa Quales Group. 
-Si se quiere trabajar con el proyecto, es posible cargar las tablas del Excel "Data Source" en SQL Server Management Studio mediante la herramienta Import Data propia de dicho motor. 
